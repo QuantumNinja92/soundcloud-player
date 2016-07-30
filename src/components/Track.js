@@ -1,5 +1,5 @@
 import React, {Component} from 'react';
-import { PlayButton, Progress, Timer } from 'react-sounplayer/components';
+import { PlayButton, Progress, Timer } from 'react-soundplayer/components';
 
 export default class Track extends Component {
   render(){
