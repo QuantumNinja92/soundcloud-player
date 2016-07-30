@@ -9,7 +9,7 @@
 },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/electron/electron-quick-start.git"
+    "url": "https://github.com/QuantumNinja92/soundcloud-player"
   },
   "keywords": [
     "Electron",
